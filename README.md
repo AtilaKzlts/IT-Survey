@@ -64,6 +64,8 @@ Analyzing Relationships between Categorical Variables:
 
 In terms of employee distribution, there are 600 male employees and 200 female employees. The largest location is Munich, followed by Berlin and Frankfurt. Positions are dominated by software engineering, with the highest number of employees in senior roles, followed by leadership, mid-level and junior roles. Programming languages include C++ and PHP, while Python and Java are also widely used. Employment is mostly full-time, with contracts usually for an indefinite period. English, German and Russian are the main languages used, while company sizes are mostly small.
 
+-------
+
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/2.png)
 
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/3.png)
@@ -72,11 +74,12 @@ In terms of work experience in Germany, there is a concentration in the range up
 The distribution of vacation days has a clear peak around 30 days. This indicates a standard vacation policy.
 The highest WFH support is EUR 1,000 and the 4th month stands out in the monthly distribution. Within the age groups, employees in the 30-39 age group are the most dominant.
 
+-------
 
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/4.png)
 In the top panel, the software engineer position has the widest salary distribution, with gross annual salaries ranging from 25,000 to 175,000. Senior and leader positions are at the top of the salary levels, while intern and student level salaries are lower. In addition, salaries for positions such as DevOps, data scientist and machine learning engineer increase significantly with increasing seniority. In the bottom panel, annual leave days are analyzed according to company size. In large companies (1,000+ employees), annual leave is generally concentrated between 25-30 days, while in small companies (up to 10 employees), a wider distribution and fewer days of leave are noteworthy. As experience levels increase, annual leave days generally increase.
 
-
+-------
 
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/5.png)
 
@@ -92,7 +95,7 @@ Upper right quadrant: Categories such as Gender_Diverse exhibit more distant, un
 Language and Age Relationships:
 English speakers are generally in younger age groups, while German and Russian languages are divided into more distinct clusters.
 
-
+---------
 
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/6.png)
 Proximity Relationship: Close points represent strong relationships. For example, the categories CompanyType_Product, CompanySize_1000+ and EmploymentStatus_Full-time employee are related.
@@ -106,6 +109,7 @@ Upper right quadrant: Categories such as Contract duration_Other exhibit unique 
 Company and Labor Relations:
 While full-time work is common in large companies, freelancers and part-timers are more common in startups.
 
+-------
 
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/7.png)
 Proximity Relationship:
