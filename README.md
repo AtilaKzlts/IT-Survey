@@ -48,14 +48,13 @@ Male employees are usually located in Berlin and in senior positions, while fema
 
 ## Objective
 
-Demographic Distribution Analysis:
-+ Analyzing the distribution of IT professionals by age, gender and other demographic characteristics.
++ To examine the relationship between demographic characteristics of employees (age, gender, city) and job positions (software engineer, data scientist, etc.).
 
-Identifying Salary Trends:
-+ Analyzing salary differences between different positions, age groups and genders to reveal salary dynamics across the industry.
++ To reveal general trends in the sector by analyzing quantitative data such as technology usage and work experience (annual salary, vacation days).
 
-Analyzing Relationships between Categorical Variables:
-+ To identify hidden relationships and interactions between categorical variables using Multidimensional Category Analysis (MCA).
++ Identify similarities and differences between employees using the MCA method.
+
++ To understand the workforce dynamics in the industry by examining factors such as employment status, company size and job security.
 
 
 ## Analysis Outputs
