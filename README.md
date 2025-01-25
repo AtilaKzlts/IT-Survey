@@ -12,7 +12,9 @@
 
 ## Project Introduction
 
-2020 IT Industry Survey: Examining demographics, salary trends, and workplace dynamics among technology professionals, we used Multidimensional Category Analysis (MCA) to delve deeper into the latent relationships and interactions between categorical variables. The findings reveal key parameters such as gender distribution, age demographics, and salary differences between different positions, as well as complex linkages between variables, providing industry insights.”
+2020 IT Industry Survey: Examining demographics, salary trends, and workplace dynamics among technology professionals, we used Multidimensional Category Analysis (MCA) to delve deeper into the latent relationships and interactions between categorical variables. The findings reveal key parameters such as gender distribution, age demographics, and salary differences between different positions, as well as complex linkages between variables, providing industry insights.
+
+[See the notebook](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/notebook/it_survey.ipynb)
 
 ## Executive summary
 
