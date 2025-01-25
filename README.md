@@ -1,5 +1,5 @@
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/8.png)
-# | Information Technologies Survey Analysis
+# **Information Technologies Survey Analysis**
 
 ### Table of Contents
 
