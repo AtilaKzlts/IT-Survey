@@ -1,4 +1,9 @@
-# Information Technologies Survey Analysis
+![image](https://github.com/AtilaKzlts/Finance-Application-Complaints/blob/main/assets/pics/bar.png)
+
+<div align="center">
+  <h1>Information Technologies Survey Analysis</h1>
+ </p>
+</div>
 
 ## Table of Contents
 
@@ -102,6 +107,19 @@ This analysis is based on the **2020 IT Industry Survey**, which examines demogr
 - **Female employees** are generally **younger and English speakers**.
 - **Large companies employ more full-time workers**, while **startups have more freelancers and part-timers**.
 - **Data Scientists and Python**, **Backend Developers and Java/SQL**, **Frontend Developers and JavaScript/TypeScript** are strongly linked.
+
+![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/6.png)
+
+**Proximity Relationship**:  
+   - **Close points**: Güçlü ilişkiler (örneğin, büyük şirketlerde tam zamanlı çalışanlar).  
+   - **Distant dots**: Zayıf ilişkiler ya da benzersiz özellikler.  
+**Clusters and Quartets**:  
+   - **Bottom left quadrant**: Küçük firmalar ve startup'lar ilişkisi.  
+   - **Bottom right quadrant**: Serbest çalışanlar ve yarı zamanlı çalışanlar ile startup'lar ilişkisi.  
+   - **Upper right quadrant**: Benzersiz kategoriler (örneğin, sözleşme süreleri).  
+**Company and Labor Relations**:  
+   - **Full-time work** büyük şirketlerde yaygın, **freelancers** ve **part-time workers** startup'larda yaygın.
+
 
 ## Detailed Summary
 
