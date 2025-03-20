@@ -110,16 +110,6 @@ This analysis is based on the **2020 IT Industry Survey**, which examines demogr
 
 ![image](https://github.com/AtilaKzlts/IT-Survey/blob/main/assets/pics/6.png)
 
-**Proximity Relationship**:  
-   - **Close points**: Güçlü ilişkiler (örneğin, büyük şirketlerde tam zamanlı çalışanlar).  
-   - **Distant dots**: Zayıf ilişkiler ya da benzersiz özellikler.  
-**Clusters and Quartets**:  
-   - **Bottom left quadrant**: Küçük firmalar ve startup'lar ilişkisi.  
-   - **Bottom right quadrant**: Serbest çalışanlar ve yarı zamanlı çalışanlar ile startup'lar ilişkisi.  
-   - **Upper right quadrant**: Benzersiz kategoriler (örneğin, sözleşme süreleri).  
-**Company and Labor Relations**:  
-   - **Full-time work** büyük şirketlerde yaygın, **freelancers** ve **part-time workers** startup'larda yaygın.
-
 
 ## Detailed Summary
 
